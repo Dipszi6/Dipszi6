@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi, I’m Pradipa, an Informatics student with a deep passion for Frontend Development.<br>I specialize in bridging the gap between complex backend logic and intuitive user interfaces.<br>My goal is to build web applications that are not only visually striking but also highly performant and accessible to everyone."
+"Software Engineer & Computer Science Student | Focused on writing clean code and problem-solving."
 
 
 ## 🌐 Socials:
